@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 안녕하세요~
 <!--
 **bini-s2/bini-s2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
