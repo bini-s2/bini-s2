@@ -6,4 +6,3 @@
 🎨 Brand Design · Illustration  
 🖥️ Web · UI/UX  
 🌱 Product Design · Development
-👋 제 홈페이지에 놀러오세요!!! https://colorful-light-154299.framer.app/
