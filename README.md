@@ -11,11 +11,11 @@
 
 | 프로젝트 | 소개 | 도구·기술 | 보기 |
 | --- | --- | --- | --- |
-| Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/Design-log/blob/main/projects/tistory-skin/README.md) |
-| SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | 아카이브 준비 중 |
-| Readdy AI Web | AI Website Builder를 활용한 업종별 웹사이트 디자인 실험 | Readdy AI · Prompting | 아카이브 준비 중 |
+| Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/tistory-skin) |
+| SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | [프로젝트 보기](https://github.com/bini-s2/sutudio) · 상세 기록 준비 중 |
+| Readdy AI Web | AI Website Builder를 활용한 업종별 웹사이트 디자인 실험 | Readdy AI · Prompting | [프로젝트 보기](https://github.com/bini-s2/readdy-ai-web) · 상세 기록 준비 중 |
 
-[전체 프로젝트 아카이브 →](https://github.com/bini-s2/Design-log/tree/main/projects)
+[전체 저장소 보기 →](https://github.com/bini-s2?tab=repositories)
 
 ## Recent Design Logs
 
