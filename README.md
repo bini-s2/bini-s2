@@ -15,9 +15,7 @@
 | --- | --- | --- | --- |
 | Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/tistory-skin) |
 | SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | [프로젝트 보기](https://github.com/bini-s2/sutudio) |
-| Readdy AI Web | 업종별 시안과 캐릭터·브랜드 웹 콘셉트 디자인 실험 | Readdy AI · Prompting | [프로젝트 보기](https://github.com/bini-s2/readdy-ai-web) |
-| BINI OFFICE | 소복이와 BINI 인물 캐릭터를 결합한 오피스 웹 콘셉트 | Readdy AI · Character · Web | [기록 보기](https://github.com/bini-s2/readdy-ai-web/blob/main/projects/bini-office.md) |
-| BINI Fashion — OFF HOURS | 별도로 진행한 BINI 26FW 패션 웹 프로젝트 | Readdy AI · Fashion Web · Prompting | [기록 보기](https://github.com/bini-s2/readdy-ai-web/blob/main/projects/bini-fashion.md) |
+| Readdy AI Web | 업종별 시안과 BINI OFFICE·BINI Fashion 등 캐릭터·브랜드 웹 콘셉트 디자인 실험 | Readdy AI · Prompting | [프로젝트 보기](https://github.com/bini-s2/readdy-ai-web) |
 
 [전체 저장소 보기 →](https://github.com/bini-s2?tab=repositories)
 
