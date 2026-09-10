@@ -12,15 +12,14 @@
 | 프로젝트 | 소개 | 도구·기술 | 보기 |
 | --- | --- | --- | --- |
 | Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/tistory-skin) |
-| SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | [프로젝트 보기](https://github.com/bini-s2/sutudio) · 상세 기록 준비 중 |
-| Readdy AI Web | AI Website Builder를 활용한 업종별 웹사이트 디자인 실험 | Readdy AI · Prompting | [프로젝트 보기](https://github.com/bini-s2/readdy-ai-web) · 상세 기록 준비 중 |
+| SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | [프로젝트 보기](https://github.com/bini-s2/sutudio) |
+| Readdy AI Web | AI Website Builder를 활용한 업종별 웹사이트 디자인 실험 | Readdy AI · Prompting | [프로젝트 보기](https://github.com/bini-s2/readdy-ai-web) |
 
 [전체 저장소 보기 →](https://github.com/bini-s2?tab=repositories)
 
 ## Recent Design Logs
 
-- 2026.09.10 · [Tistory 스킨 최종 다듬기](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-10-tistory-skin-final-polish.md)
-- 2026.09.10 · [Tistory 스킨 버전 기록 v1.43–v1.48](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-10-tistory-skin-version-history.md)
+- 2026.09.10 · [작은 디자인 작업·공부·실험 기록 정리](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-10-small-design-work-history.md)
 - 2026.09.09 · [디자인 아카이브 기록](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-09-design-archive-log.md)
 
 [전체 디자인 로그 →](https://github.com/bini-s2/Design-log/tree/main/logs)
