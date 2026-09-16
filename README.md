@@ -13,8 +13,8 @@
 
 | 프로젝트 | 소개 | 도구·기술 | 보기 |
 | --- | --- | --- | --- |
-| Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/tistory-skin) |
 | SUTUDIO | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer | [프로젝트 보기](https://github.com/bini-s2/sutudio) |
+| Tistory Custom Skin | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript | [프로젝트 보기](https://github.com/bini-s2/tistory-skin) |
 | Japanese Sound to Script | 귀로 익힌 일본어를 표기·의미·문법과 연결해 자격증 학습으로 전환하는 일본어 학습 서비스 | Product Design · UX/UI · AI | [프로젝트 보기](https://github.com/bini-s2/japanese-sound-to-script) |
 
 [전체 저장소 보기 →](https://github.com/bini-s2?tab=repositories)
