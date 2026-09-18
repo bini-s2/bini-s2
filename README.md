@@ -1,5 +1,7 @@
 ## 안녕하세요, BINI입니다 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=bini-s2&label=Profile%20Views&color=0037FF&style=flat)
+
 그림을 그리고, 브랜드에 숨을 넣고, 요즘은 웹을 공부합니다.
 좋아하는 것들을 하나씩 연결하며 디자인하고 있어요.
 
