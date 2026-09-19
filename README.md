@@ -6,13 +6,13 @@
 
 그림 · 브랜드 · 웹 · 제품을 연결하며 좋아하는 것들을 하나씩 만들고 있어요.
 
-![Profile Views](https://komarev.com/ghpvc/?username=bini-s2&label=Profile%20Views&color=0037FF&style=flat-square)
+<img src="https://hits.sh/github.com/bini-s2.svg?style=flat-square&label=Profile%20Views&color=0037FF&labelColor=2F3337" alt="Profile Views" />
 
 </div>
 
 <br>
 
-<h3 align="center">✦ Contact & Links ✦</h3>
+<h3 align="center">✦ Contacts ✦</h3>
 
 <div align="center">
 
@@ -24,39 +24,43 @@
 
 <br>
 
-<h3 align="center">🎨 Design</h3>
+<h2 align="center">🧰 Tool</h2>
 
 <div align="center">
+
+<b>Design</b>
+
+<br><br>
 
 ![Figma](https://img.shields.io/badge/Figma-2F3337?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-2F3337?style=flat-square&logo=framer&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-2F3337?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-2F3337?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
 
-</div>
+<br><br>
 
-<h3 align="center">🗂 Planning & Workspace</h3>
+<b>Planning & Workspace</b>
 
-<div align="center">
+<br><br>
 
 ![Notion](https://img.shields.io/badge/Notion-2F3337?style=flat-square&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2F3337?style=flat-square&logo=github&logoColor=white)
 
-</div>
+<br><br>
 
-<h3 align="center">✦ AI Tools ✦</h3>
+<b>AI</b>
 
-<div align="center">
+<br><br>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-2F3337?style=flat-square&logo=openai&logoColor=white)
 ![Readdy](https://img.shields.io/badge/Readdy-6C5CE7?style=flat-square&logoColor=white)
 
-</div>
+<br><br>
 
-<h3 align="center">🌱 Studying / Building with</h3>
+<b>Development · Studying</b>
 
-<div align="center">
+<br><br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -65,7 +69,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -77,12 +81,6 @@
   <img alt="BINI GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default" height="170">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=default">
-  <img alt="BINI languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=default" height="170">
-</picture>
-
 </div>
 
 <div align="center">
@@ -92,13 +90,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A">
   <img alt="BINI GitHub streak" src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" height="170">
 </picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Design × Product × Web**
 
 </div>
