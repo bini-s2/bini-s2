@@ -14,7 +14,7 @@
 <a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
 <a href="https://colorful-light-154299.framer.app/"><img src="https://img.shields.io/badge/SOOTUDIO%20Website-0037FF?style=flat-square&logo=framer&logoColor=white" alt="SOOTUDIO" /></a>
 
-<br><br><br>
+<br><br>
 
 ## 💙 Tool
 
@@ -55,7 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/JS%20JavaScript-F7DF1E?style=flat-square)
 ![React](https://img.shields.io/badge/R%20React-61DAFB?style=flat-square)
 
-<br><br><br>
+<br><br>
 
 ## 💙 GitHub Stats
 
