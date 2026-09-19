@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><strong><big><big><big><big>Bini's GitHub 💙</big></big></big></big></strong></p>
+<img src="./assets/bini-title.svg" alt="Bini's GitHub" width="420" />
 
 **브랜드를 만들고, 화면을 설계하고, 좋아하는 것을 직접 구현합니다.**
 
