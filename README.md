@@ -12,7 +12,7 @@
 
 ---
 
-## ✦ Contacts
+## 💙 Contacts
 
 <a href="mailto:bini_s2@naver.com"><img src="https://img.shields.io/badge/MAIL-bini__s2%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Mail" /></a>
 <a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-Blog-2F3337?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
@@ -20,7 +20,7 @@
 
 <br>
 
-## 🧰 Tool
+## 💙 Tool
 
 ### Design Tools
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💙 GitHub Stats
 
 <p align="right">
 <picture>
