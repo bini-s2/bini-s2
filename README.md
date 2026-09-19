@@ -17,9 +17,8 @@
 <div align="center">
 
 <a href="mailto:bini_s2@naver.com"><img src="https://img.shields.io/badge/MAIL-bini__s2%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Mail" /></a>
-<a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
-<a href="https://colorful-light-154299.framer.app/"><img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://colorful-light-154299.framer.app/" width="18" height="18" alt="SOOTUDIO favicon" /></a>
-&nbsp;<a href="https://colorful-light-154299.framer.app/"><b>SOOTUDIO</b></a>
+<a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-Blog-2F3337?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
+<a href="https://colorful-light-154299.framer.app/"><img src="https://img.shields.io/badge/SOOTUDIO-Website-0037FF?style=flat-square&logo=framer&logoColor=white" alt="SOOTUDIO" /></a>
 
 </div>
 
@@ -29,10 +28,10 @@
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-171717?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-171717?style=flat-square&logo=framer&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
-![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+![Figma](https://img.shields.io/badge/Figma-2F3337?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-2F3337?style=flat-square&logo=framer&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-2F3337?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+![Photoshop](https://img.shields.io/badge/Photoshop-2F3337?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
 
 </div>
 
@@ -40,8 +39,8 @@
 
 <div align="center">
 
-![Notion](https://img.shields.io/badge/Notion-171717?style=flat-square&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-2F3337?style=flat-square&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2F3337?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -50,8 +49,8 @@
 <div align="center">
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-171717?style=flat-square&logo=openai&logoColor=white)
-![Readdy](https://img.shields.io/badge/Readdy-6C5CE7?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-2F3337?style=flat-square&logo=openai&logoColor=white)
+![Readdy](https://img.shields.io/badge/Readdy-6C5CE7?style=flat-square&logoColor=white)
 
 </div>
 
@@ -68,48 +67,31 @@
 
 <br>
 
-## ✦ Selected Projects
-
-| Project | About | Stack |
-| --- | --- | --- |
-| [SOOTUDIO](https://github.com/bini-s2/sutudio) | 개인 웹사이트 디자인 및 Framer 구축 프로젝트 | Framer |
-| [Tistory Custom Skin](https://github.com/bini-s2/tistory-skin) | 개인 디자인 아카이브를 위한 반응형 Tistory 커스텀 스킨 | HTML · CSS · JavaScript |
-| [Japanese Sound to Script](https://github.com/bini-s2/japanese-sound-to-script) | 귀로 익힌 일본어를 표기·의미·문법과 연결하는 일본어 학습 서비스 | Product Design · UX/UI · AI |
-
-<div align="right">
-
-[전체 저장소 보기 →](https://github.com/bini-s2?tab=repositories)
-
-</div>
-
-<br>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bini-s2&show_icons=true&hide_border=true&bg_color=00000000&title_color=0037FF&icon_color=0037FF&text_color=737373&include_all_commits=true&count_private=true" height="170" alt="BINI GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bini-s2&layout=compact&hide_border=true&bg_color=00000000&title_color=0037FF&text_color=737373" height="170" alt="BINI top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default">
+  <img alt="BINI GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default" height="170">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=default">
+  <img alt="BINI languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bini-s2&theme=default" height="170">
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=00000000&ring=0037FF&fire=0037FF&currStreakLabel=0037FF&sideNums=737373&sideLabels=737373&dates=999999" height="170" alt="BINI GitHub streak" />
-
-</div>
-
-<br>
-
-## 📝 Recent Design Logs
-
-- 2026.09.19 · [일본어 학습 서비스 UX / Master Wireframe / Readdy Prototype](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-19.md)
-- 2026.09.10 · [작은 디자인 작업·공부·실험 기록 정리](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-10-small-design-work-history.md)
-- 2026.09.09 · [디자인 아카이브 기록](https://github.com/bini-s2/Design-log/blob/main/logs/2026/09/2026-09-09-design-archive-log.md)
-
-<div align="right">
-
-[전체 디자인 로그 →](https://github.com/bini-s2/Design-log/tree/main/logs)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=0D1117&stroke=30363D&ring=0037FF&fire=0037FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A">
+  <img alt="BINI GitHub streak" src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" height="170">
+</picture>
 
 </div>
 
