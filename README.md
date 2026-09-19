@@ -33,8 +33,8 @@
 
 ### Drawing Tools
 
-![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-00A4FF?style=flat-square)
-![Procreate](https://img.shields.io/badge/Procreate-111111?style=flat-square)
+![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-D9D9D9?style=flat-square&logoColor=333333)
+![Procreate](https://img.shields.io/badge/Procreate-8B5CF6?style=flat-square&logoColor=white)
 
 
 ### Planning & Workspace
