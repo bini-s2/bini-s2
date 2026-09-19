@@ -1,6 +1,8 @@
 <div align="center">
 
-# 반가워요 👋
+# Bini's GitHub 💙
+
+**브랜드를 만들고, 화면을 설계하고, 좋아하는 것을 직접 구현합니다.**
 
 <img src="https://hits.sh/github.com/bini-s2.svg?style=flat-square&label=Profile%20Views&color=0037FF&labelColor=2F3337" alt="Profile Views" />
 
