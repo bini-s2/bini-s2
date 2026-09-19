@@ -61,15 +61,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="right">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default">
-  <img alt="BINI GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default" width="48%">
+  <img alt="BINI GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bini-s2&theme=default" width="33%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=0D1117&stroke=30363D&ring=0037FF&fire=0037FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A">
-  <img alt="BINI GitHub streak" src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" width="48%">
+  <img alt="BINI GitHub streak" src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0037FF&fire=0037FF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" width="47%">
 </picture>
 </p>
