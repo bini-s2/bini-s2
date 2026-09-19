@@ -14,8 +14,8 @@
 
 ## 💙 Contacts
 
-<a href="mailto:bini_s2@naver.com"><img src="https://img.shields.io/badge/MAIL%20bini__s2%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Mail" /></a>
-<a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY%20Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
+<a href="mailto:bini_s2@naver.com"><img src="https://img.shields.io/badge/bini__s2%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Mail" /></a>
+<a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-FF5A4A?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
 <a href="https://colorful-light-154299.framer.app/"><img src="https://img.shields.io/badge/SOOTUDIO%20Website-0037FF?style=flat-square&logo=framer&logoColor=white" alt="SOOTUDIO" /></a>
 
 <br><br>
