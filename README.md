@@ -1,5 +1,5 @@
 <div align="center">
-<br><br>
+<br><br><br>
 <img src="./assets/bini-title-v2.svg" alt="Bini's GitHub" width="420" />
 
 **브랜드를 만들고, 화면을 설계하고, 좋아하는 것을 직접 구현합니다.**
@@ -10,7 +10,7 @@
 
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 ## 💙 Contacts
 
