@@ -1,10 +1,6 @@
 <div align="center">
 
-# 안녕하세요, BINI입니다 👋
-
-**브랜드를 만들고, 화면을 설계하고, 요즘은 직접 구현하는 법을 배우고 있습니다.**
-
-그림 · 브랜드 · 웹 · 제품을 연결하며 좋아하는 것들을 하나씩 만들고 있어요.
+# 반가워요 👋
 
 <img src="https://hits.sh/github.com/bini-s2.svg?style=flat-square&label=Profile%20Views&color=0037FF&labelColor=2F3337" alt="Profile Views" />
 
