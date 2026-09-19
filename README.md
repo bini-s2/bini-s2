@@ -28,16 +28,34 @@
 
 <div align="center">
 
-<b>Design</b>
+<b>Design Tools</b>
 
 <br><br>
 
 ![Figma](https://img.shields.io/badge/Figma-2F3337?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-2F3337?style=flat-square&logo=framer&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-2F3337?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-2F3337?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-2F3337?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+![InDesign](https://img.shields.io/badge/InDesign-2F3337?style=flat-square&logo=adobeindesign&logoColor=FF3366)
+
+<br>
+
+<sub>UI · Web · Brand Graphic · Image Editing · Vector · Editorial</sub>
+
+<br><br><br>
+
+<b>Drawing Tools</b>
 
 <br><br>
+
+![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-2F3337?style=flat-square)
+![Procreate](https://img.shields.io/badge/Procreate-2F3337?style=flat-square)
+
+<br>
+
+<sub>Character · Illustration · Concept Art · Digital Drawing</sub>
+
+<br><br><br>
 
 <b>Planning & Workspace</b>
 
@@ -46,9 +64,9 @@
 ![Notion](https://img.shields.io/badge/Notion-2F3337?style=flat-square&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2F3337?style=flat-square&logo=github&logoColor=white)
 
-<br><br>
+<br><br><br>
 
-<b>AI</b>
+<b>AI Tools</b>
 
 <br><br>
 
@@ -56,7 +74,7 @@
 ![Codex](https://img.shields.io/badge/Codex-2F3337?style=flat-square&logo=openai&logoColor=white)
 ![Readdy](https://img.shields.io/badge/Readdy-6C5CE7?style=flat-square&logoColor=white)
 
-<br><br>
+<br><br><br>
 
 <b>Development · Studying</b>
 
