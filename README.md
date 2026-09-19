@@ -2,8 +2,9 @@
 
 # 안녕하세요, BINI입니다 👋
 
-그림을 그리고, 브랜드에 숨을 넣고, 요즘은 웹과 제품을 공부합니다.  
-좋아하는 것들을 하나씩 연결하며 디자인하고 있어요.
+**브랜드를 만들고, 화면을 설계하고, 요즘은 직접 구현하는 법을 배우고 있습니다.**
+
+그림 · 브랜드 · 웹 · 제품을 연결하며 좋아하는 것들을 하나씩 만들고 있어요.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bini-s2&label=Profile%20Views&color=0037FF&style=flat-square)
 
@@ -11,16 +12,20 @@
 
 <br>
 
-## ✦ About
+<h3 align="center">✦ Contact & Links ✦</h3>
 
-- 🎨 Brand Design · Illustration
-- 🖥️ Web · UI/UX
-- 🌱 Product Design · Development
-- 🧩 디자인, 리서치, AI, 구현을 연결하는 개인 프로젝트를 만들고 있습니다.
+<div align="center">
+
+<a href="mailto:bini_s2@naver.com"><img src="https://img.shields.io/badge/MAIL-bini__s2%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Mail" /></a>
+<a href="https://bini-s2.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a>
+<a href="https://colorful-light-154299.framer.app/"><img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://colorful-light-154299.framer.app/" width="18" height="18" alt="SOOTUDIO favicon" /></a>
+&nbsp;<a href="https://colorful-light-154299.framer.app/"><b>SOOTUDIO</b></a>
+
+</div>
 
 <br>
 
-## 🛠 Design & Tools
+<h3 align="center">🎨 Design</h3>
 
 <div align="center">
 
@@ -28,11 +33,29 @@
 ![Framer](https://img.shields.io/badge/Framer-171717?style=flat-square&logo=framer&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+
+</div>
+
+<h3 align="center">🗂 Planning & Workspace</h3>
+
+<div align="center">
+
+![Notion](https://img.shields.io/badge/Notion-171717?style=flat-square&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-### Learning / Building with
+<h3 align="center">✦ AI Tools ✦</h3>
+
+<div align="center">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-171717?style=flat-square&logo=openai&logoColor=white)
+![Readdy](https://img.shields.io/badge/Readdy-6C5CE7?style=flat-square)
+
+</div>
+
+<h3 align="center">🌱 Studying / Building with</h3>
 
 <div align="center">
 
@@ -61,12 +84,18 @@
 
 <br>
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bini-s2&show_icons=true&hide_border=true&bg_color=00000000&title_color=0037FF&icon_color=0037FF&text_color=737373&rank_icon=github" height="165" alt="BINI GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bini-s2&layout=compact&hide_border=true&bg_color=00000000&title_color=0037FF&text_color=737373" height="165" alt="BINI top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=bini-s2&show_icons=true&hide_border=true&bg_color=00000000&title_color=0037FF&icon_color=0037FF&text_color=737373&include_all_commits=true&count_private=true" height="170" alt="BINI GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bini-s2&layout=compact&hide_border=true&bg_color=00000000&title_color=0037FF&text_color=737373" height="170" alt="BINI top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bini-s2&hide_border=true&background=00000000&ring=0037FF&fire=0037FF&currStreakLabel=0037FF&sideNums=737373&sideLabels=737373&dates=999999" height="170" alt="BINI GitHub streak" />
 
 </div>
 
