@@ -1,6 +1,6 @@
 <div align="center">
 
-### Bini's GitHub 💙
+# Bini's GitHub 💙
 
 **브랜드를 만들고, 화면을 설계하고, 좋아하는 것을 직접 구현합니다.**
 
@@ -28,7 +28,7 @@
 
 <sub>UI · Web · Brand Graphic · Image Editing · Vector · Editorial</sub>
 
-<br><br>
+<br>
 
 ### Drawing Tools
 
@@ -37,14 +37,14 @@
 
 <sub>Character · Illustration · Concept Art · Digital Drawing</sub>
 
-<br><br>
+<br>
 
 ### Planning & Workspace
 
 ![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<br><br>
+<br>
 
 ### AI Tools
 
@@ -52,7 +52,7 @@
 ![Codex](https://img.shields.io/badge/CX%20Codex-111111?style=flat-square)
 ![Readdy](https://img.shields.io/badge/R%20Readdy-6C5CE7?style=flat-square)
 
-<br><br>
+<br>
 
 ### Development · Studying
 
