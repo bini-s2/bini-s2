@@ -3,6 +3,8 @@
 <img src="./assets/bini-title-v2.svg" alt="Bini's GitHub" width="420" />
 
 **브랜드를 만들고, 화면을 설계하고, 좋아하는 것을 직접 구현합니다.**
+<sub>UI · Web · Brand Graphic · Image Editing · Vector · Editorial</sub>
+<sub>Character · Illustration · Concept Art · Digital Drawing</sub>
 
 </div>
 
@@ -26,14 +28,12 @@
 ![Illustrator](https://img.shields.io/badge/Ai%20Illustrator-FF9A00?style=flat-square)
 ![InDesign](https://img.shields.io/badge/Id%20InDesign-FF3366?style=flat-square)
 
-<sub>UI · Web · Brand Graphic · Image Editing · Vector · Editorial</sub>
 
 ### Drawing Tools
 
 ![Clip Studio Paint](https://img.shields.io/badge/CSP%20Clip%20Studio%20Paint-00A4FF?style=flat-square)
 ![Procreate](https://img.shields.io/badge/P%20Procreate-111111?style=flat-square)
 
-<sub>Character · Illustration · Concept Art · Digital Drawing</sub>
 
 ### Planning & Workspace
 
