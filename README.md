@@ -28,7 +28,6 @@
 
 <sub>UI · Web · Brand Graphic · Image Editing · Vector · Editorial</sub>
 
-<br>
 
 ### Drawing Tools
 
