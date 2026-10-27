@@ -1,6 +1,6 @@
 <div align="center">
 <br><br><br><br>
-<img src="./assets/bini-title-v2.svg" alt="Bini's GitHub" width="420" />
+<img src="./assets/bini-title-v2.svg" alt="Hello! BINI GitHub" width="420" />
 
 **좋아하는 것들을 직접 구현합니다.**
 <br>
